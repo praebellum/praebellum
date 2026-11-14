@@ -55,9 +55,9 @@
 - **Secure Contact**: `contact@praebellum.com`
 - **Tactical Phone / Comms**: `+1 (909) 707-1945`
 - **Location**: Jakarta, Indonesia • Global Operations
-- **Social Handles**:
+- **Verified Social Entity**:
   - LinkedIn: [linkedin.com/company/praebellum](https://www.linkedin.com/company/praebellum)
-  - X / Twitter: [@praebellum](https://x.com/praebellum)
+  - Instagram: [@praebellum](https://www.instagram.com/praebellum)
   - GitHub: [@praebellum](https://github.com/praebellum)
 
 ---
