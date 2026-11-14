@@ -58,7 +58,8 @@
 - **Verified Social Entity**:
   - LinkedIn: [linkedin.com/company/praebellum](https://www.linkedin.com/company/praebellum)
   - Instagram: [@praebellum](https://www.instagram.com/praebellum)
-  - GitHub: [@praebellum](https://github.com/praebellum)
+  - TikTok: [@praebellum](https://www.tiktok.com/@praebellum)
+  - GitHub: [@praebellum](https://github.com/praebellum) (Security Advisories: [praebellum/security-advisories](https://github.com/praebellum/security-advisories))
 
 ---
 
