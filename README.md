@@ -10,12 +10,14 @@
 <br/>
 
 ```
-     ___   ___       _   ___ ___ _    _   _   _ __  __ 
-    | _ \ | _ \     /_\ | __| _ ) |  | | | | | |  \/  |
-    |  _/ |   /    / _ \| _|| _ \ |__| |_| |_| | |\/| |
-    |_|   |_|_\   /_/ \_\___|___/____|____\___/|_|  |_|
-    ════════════════════════════════════════════════════
-    "SI VIS PACEM, PARA BELLUM" — PREPARE FOR RESILIENCE
+  ██████╗ ██████╗  █████╗ ███████╗██████╗ ███████╗██╗     ██╗     ██╗   ██╗███╗   ███╗
+  ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║     ██║     ██║   ██║████╗ ████║
+  ██████╔╝██████╔╝███████║█████╗  ██████╔╝█████╗  ██║     ██║     ██║   ██║██╔████╔██║
+  ██╔═══╝ ██╔══██╗██╔══██║██╔══╝  ██╔══██╗██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║
+  ██║     ██║  ██║██║  ██║███████╗██████╔╝███████╗███████╗███████╗╚██████╔╝██║ ╚═╝ ██║
+  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝
+  ════════════════════════════════════════════════════════════════════════════════════
+  "SI VIS PACEM, PARA BELLUM" — PREPARE FOR RESILIENCE • ADVERSARY EMULATION & RED TEAM
 ```
 
 <p align="center">
@@ -36,17 +38,13 @@
 ---
 
 ### 🌐 Standards & Methodologies
-
-```
-┌─────────────────────────┬──────────────────────────┬────────────────────────┐
-│ Regulatory & Governance │ Offensive Methodologies  │ Architecture & Cloud   │
-├─────────────────────────┼──────────────────────────┼────────────────────────┤
-│ • POJK Keamanan Siber   │ • PTES Execution         │ • Zero-Trust Boundary  │
-│ • UU PDP No. 27/2022    │ • NIST SP 800-115        │ • Cloud Hardening      │
-│ • ISO/IEC 27001:2022    │ • OWASP Top 10 & ASVS    │ • Posture Assessment   │
-│ • BSSN Security Rules   │ • MITRE ATT&CK Matrix    │ • Defense-in-Depth     │
-└─────────────────────────┴──────────────────────────┴────────────────────────┘
-```
+ 
+| Regulatory & Governance | Offensive Methodologies | Architecture & Cloud Defense |
+| :--- | :--- | :--- |
+| • **POJK Keamanan Siber** (Perbankan & Fintech) | • **PTES** Penetration Testing Standard | • **Zero-Trust** Perimeter Isolation |
+| • **UU PDP No. 27/2022** (Data Privacy) | • **NIST SP 800-115** Assessment Guide | • **Cloud Hardening** (AWS / GCP / Cloudflare) |
+| • **ISO/IEC 27001:2022** Information Security | • **OWASP Top 10** & ASVS Verification | • **Attack Surface Management** (ASM) |
+| • **BSSN** Sovereign Cyber Directives | • **MITRE ATT&CK®** Enterprise Matrix | • **Cryptographic Defense** & OPSEC |
 
 ---
 
