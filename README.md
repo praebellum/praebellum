@@ -54,9 +54,8 @@
 - **Legal Entity**: PT NETKRIDA TUAH CAKRAWALA
 - **Secure Contact**: `contact@praebellum.com`
 - **Tactical Phone / Comms**: `+1 (909) 707-1945`
-- **Location**: Jakarta, Indonesia • Global Operations
+- **Location**: Pekanbaru, Riau, Indonesia • Global Operations
 - **Verified Social Entity**:
-  - LinkedIn: [linkedin.com/company/praebellum](https://www.linkedin.com/company/praebellum)
   - Instagram: [@praebellum](https://www.instagram.com/praebellum)
   - TikTok: [@praebellum](https://www.tiktok.com/@praebellum)
   - GitHub: [@praebellum](https://github.com/praebellum) (Security Advisories: [praebellum/security-advisories](https://github.com/praebellum/security-advisories))
